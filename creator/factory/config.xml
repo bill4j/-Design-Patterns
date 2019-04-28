@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <Bean>com.dynamci.bill4j.LineChartFactory</Bean>
+</config>
